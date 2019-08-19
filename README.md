@@ -1,4 +1,4 @@
-# Demo Palestra: Ganhe mais Produtividade Criando Projetos Serverless com Visual Studio Code & Node.js 
+# Demo Palestra: Ganhe mais Produtividade Criando Projetos Serverless com Visual Studio Code & Node.js - SENAC POA 
 
 [![Screen-Shot-08-18-19-at-03-22-PM.png](https://i.postimg.cc/Kc73Z3Qw/Screen-Shot-08-18-19-at-03-22-PM.png)](https://postimg.cc/4ndxPdDQ)
 
