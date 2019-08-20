@@ -19,6 +19,8 @@ Caso você seja um(a) estudante de alguma Instituição de Ensino de Faculdade o
 
 - **demo-1**: aqui eu ensino como fazer o famoso 'HelloWorld' com Node.js & Azure Functions. Após a criação, iremos realizar o deploy no Visual Studio Code direto para a nuvem!
 
+- **demo-2**: aqui ensino como você pode persistir um dado usando o HTTP Trigger, via POST direto no MongoDb local.
+
 ## Executando localmente a aplicação
 
 1. Para executar localmente a aplicação precisa primeiramente baixar o pacote npm do azure function tools globalmente na sua máquina por meio do comando:
@@ -41,10 +43,14 @@ Abre a browser em: `http://localhost:7071/api/students` e pronto! Executará o s
 
 Durante a live, comentei sobre importantes documentações, links e recursos que podem auxiliar o seu conhecimento sobre Serverless & Azure Functions
 
-- ✅ **[Link dos Slides da Palestra](https://aka.ms/AA5u7ek)**
+- ✅ **[Link dos Slides da Palestra](https://aka.ms/AA5vqcu)**
 - ✅ **[Azure para devs JavaScript & Node.js](https://docs.microsoft.com/pt-br/javascript/azure/?WT.mc_id=senacpoa-github-gllemos&view=azure-node-latest)**
 - ✅ **[Documentação Azure Functions](https://docs.microsoft.com/pt-br/azure/azure-functions/?WT.mc_id=senacpoa-github-gllemos)**
 - ✅ **[Criando a sua Primeira Função no Visual Studio Code](https://docs.microsoft.com/pt-br/azure/azure-functions/functions-create-first-function-vs-code?WT.mc_id=senacpoa-github-gllemos)**
 - ✅ **[Extensão Vs Code – Azure Functions](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions&WT.mc_id=senacpoa-github-gllemos)**
 - ✅ **[E-Book Grátis - Azure Serverless Computing Cookbook](https://azure.microsoft.com/pt-br/resources/azure-serverless-computing-cookbook/?WT.mc_id=senacpoa-github-gllemos)**
 - ✅ **[Cursos Grátis - Azure Functions](https://docs.microsoft.com/pt-br/learn/paths/create-serverless-applications/?WT.mc_id=senacpoa-github-gllemos)**
+
+## Dúvidas?! ❗️❗️
+
+Se tiverem alguma dúvida referente ao código desenvolvido ou para configurar o ambiente de desenvolvimento, bastam criar uma **[ISSUE AQUI](https://github.com/glaucia86/senacpoa-serverless/issues)** no GitHub que estarei respondendo a vocês o mais breve possível!! :D :D
